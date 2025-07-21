@@ -1,4 +1,4 @@
-# Android device tree for TECNO TECNO BG7n (TECNO-BG7n)
+# Android device tree and twrp releases for TECNO TECNO BG7n (TECNO-BG7n)
 
 ```
 #
