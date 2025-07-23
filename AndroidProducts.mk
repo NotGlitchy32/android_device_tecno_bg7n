@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_bg7n.mk
+    $(LOCAL_DIR)/twrp_bg7n.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_bg7n-user \
-    omni_bg7n-userdebug \
-    omni_bg7n-eng
+    twrp_bg7n-user \
+    twrp_bg7n-userdebug \
+    twrp_bg7n-eng
